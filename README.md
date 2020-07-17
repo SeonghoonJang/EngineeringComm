@@ -1,3 +1,4 @@
 # EngineeringComm
-## Welcome
-### 20200717
+## Welcome !!!
+### 2020.07.17
+#### Yeunghak Yi
